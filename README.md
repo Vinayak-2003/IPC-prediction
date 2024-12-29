@@ -1,0 +1,1 @@
+This is an IPC prediction model trained on Indian Penal Code sections in which there are total 511 sections divided into 23 chapters out of which starting 140 sections are definitions of the terms used in the law and the remaining are sections according to the crime with their punishment.
